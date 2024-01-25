@@ -1,0 +1,13 @@
+[2024-01-24T16:45:35.498] [ERROR] katalon - { Error: ENOTEMPTY: directory not empty, rmdir 'C:\Users\1327\git\training_katalon\tmp\2024.01.24-16.41--22984-YrkdUldAhsY2-3370322'
+    at Object.rmdirSync (fs.js:684:3)
+    at rmkidsSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:349:27)
+    at rmdirSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:329:7)
+    at rimrafSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:301:9)
+    at Object._cleanupCallback [as removeCallback] (D:\snapshot\katalon-agent\node_modules\tmp\lib\tmp.js:356:16)
+    at executeJob (D:\snapshot\katalon-agent\src\service\agent.js:0:0)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -4051,
+  syscall: 'rmdir',
+  code: 'ENOTEMPTY',
+  path:
+   'C:\\Users\\1327\\git\\training_katalon\\tmp\\2024.01.24-16.41--22984-YrkdUldAhsY2-3370322' }

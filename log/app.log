@@ -1,0 +1,140 @@
+[2024-01-24T16:38:13.977] [INFO] katalon - Updated configs @ C:\Users\1327\git\training_katalon\agentconfig.
+[2024-01-24T16:38:19.219] [INFO] katalon - Loading agent configs @ C:\Users\1327\git\training_katalon\agentconfig
+[2024-01-24T16:38:19.227] [INFO] katalon - Katalon Agent v2.0.1 started @ Wed Jan 24 2024 16:38:19 GMT+0700 (Western Indonesia Time)
+[2024-01-24T16:38:19.228] [INFO] katalon - Getting server profiles...
+[2024-01-24T16:38:20.541] [INFO] katalon - get https://testops.katalon.io/info 200.
+[2024-01-24T16:38:21.839] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:39:20.684] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:39:20.685] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:40:20.589] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:40:20.590] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:41:20.924] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:41:21.106] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:41:22.156] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/update-job 200.
+[2024-01-24T16:41:22.162] [INFO] katalon - Download test project to temp directory: C:\Users\1327\git\training_katalon\tmp\2024.01.24-16.41--22984-YrkdUldAhsY2-3370322
+[2024-01-24T16:41:22.168] [INFO] katalon - Uploading job execution log...
+[2024-01-24T16:41:24.436] [INFO] katalon - get https://testops.katalon.io/api/v1/files/upload-url 200.
+[2024-01-24T16:41:25.005] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:41:26.296] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/save-log 200.
+[2024-01-24T16:41:26.307] [INFO] katalon - Downloading test project...
+[2024-01-24T16:41:27.076] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:41:28.311] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:41:30.298] [INFO] katalon - Create controller for job ID: 3370322
+[2024-01-24T16:41:30.758] [INFO] katalon - get https://download.katalon.com/katalon-studio/releases.json 200.
+[2024-01-24T16:41:32.765] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/update-job 200.
+[2024-01-24T16:41:40.290] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:41:41.477] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:41:52.541] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:41:54.057] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3370322 200.
+[2024-01-24T16:41:54.302] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:42:03.914] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:42:05.178] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:42:20.442] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:42:20.461] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:42:23.324] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3370322 200.
+[2024-01-24T16:42:33.783] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:42:34.920] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:42:48.106] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:42:49.231] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:42:53.463] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3370322 200.
+[2024-01-24T16:43:11.927] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:43:13.100] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:43:20.409] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:43:20.746] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:43:23.353] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3370322 200.
+[2024-01-24T16:43:27.544] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:43:28.794] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:43:38.943] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:43:40.054] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:43:53.446] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3370322 200.
+[2024-01-24T16:43:56.831] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:43:57.961] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:44:11.854] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:44:12.991] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:44:20.444] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:44:20.475] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:44:23.362] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3370322 200.
+[2024-01-24T16:44:26.886] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:44:28.035] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:44:40.116] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:44:41.268] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:44:50.704] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:44:51.843] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:44:53.495] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3370322 200.
+[2024-01-24T16:45:01.170] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:45:02.923] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:45:11.822] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:45:13.710] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:45:20.447] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:45:20.447] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:45:23.388] [INFO] katalon - patch https://testops.katalon.io/api/v1/jobs/3370322 200.
+[2024-01-24T16:45:28.050] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/fc3fc0bc-0125-4d10-ab90-ec765d29f7d5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094124Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3883565da9173c82ce4af1b710b05c6765cb4396e179b975ddf7b8b4aeffa024 200.
+[2024-01-24T16:45:29.212] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/3370322/notify 200.
+[2024-01-24T16:45:30.011] [INFO] katalon - Job execution finished.
+[2024-01-24T16:45:30.012] [INFO] katalon - Uploading job execution log...
+[2024-01-24T16:45:31.362] [INFO] katalon - get https://testops.katalon.io/api/v1/files/upload-url 200.
+[2024-01-24T16:45:31.849] [INFO] katalon - put https://katalon-test.s3-accelerate.amazonaws.com/04eeacec-e39a-4745-a527-236334f850d7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240124T094532Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIXB3N7Z3SQHJU4MQ%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=53d8d88f9afad6323116e46d6d7b48a088f295d2e7ed4deef0ebca5bc84f5b42 200.
+[2024-01-24T16:45:33.075] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/save-log 200.
+[2024-01-24T16:45:35.355] [INFO] katalon - post https://testops.katalon.io/api/v1/jobs/update-job 200.
+[2024-01-24T16:45:35.355] [INFO] katalon - Job execution has been completed.
+[2024-01-24T16:45:35.356] [INFO] katalon - Job execution log uploaded.
+[2024-01-24T16:45:35.498] [ERROR] katalon - { Error: ENOTEMPTY: directory not empty, rmdir 'C:\Users\1327\git\training_katalon\tmp\2024.01.24-16.41--22984-YrkdUldAhsY2-3370322'
+    at Object.rmdirSync (fs.js:684:3)
+    at rmkidsSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:349:27)
+    at rmdirSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:329:7)
+    at rimrafSync (D:\snapshot\katalon-agent\node_modules\tmp\node_modules\rimraf\rimraf.js:301:9)
+    at Object._cleanupCallback [as removeCallback] (D:\snapshot\katalon-agent\node_modules\tmp\lib\tmp.js:356:16)
+    at executeJob (D:\snapshot\katalon-agent\src\service\agent.js:0:0)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  errno: -4051,
+  syscall: 'rmdir',
+  code: 'ENOTEMPTY',
+  path:
+   'C:\\Users\\1327\\git\\training_katalon\\tmp\\2024.01.24-16.41--22984-YrkdUldAhsY2-3370322' }
+[2024-01-24T16:46:20.532] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:46:20.534] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:47:20.510] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:47:20.548] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:48:19.240] [INFO] katalon - Process controller 3370322-21544 removed.
+[2024-01-24T16:48:20.550] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:48:20.558] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:49:20.635] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:49:20.695] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:50:20.656] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:50:20.657] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:51:20.738] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:51:20.738] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:52:20.836] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:52:22.030] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:53:20.741] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:53:22.364] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:54:20.734] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:54:20.736] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:55:20.790] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:55:20.791] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:56:20.687] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:56:20.771] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:57:20.747] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:57:20.790] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:58:20.605] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T16:58:20.632] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:59:22.700] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T16:59:22.724] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T17:00:21.346] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T17:00:21.347] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T17:01:20.591] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T17:01:20.614] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T17:02:23.703] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T17:02:23.724] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T17:03:20.697] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T17:03:20.717] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T17:04:20.772] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T17:04:20.831] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T17:05:20.791] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T17:05:20.794] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T17:06:20.681] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T17:06:20.721] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T17:07:20.626] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.
+[2024-01-24T17:07:20.638] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T17:08:20.779] [INFO] katalon - get https://testops.katalon.io/api/v1/jobs/get-job 200.
+[2024-01-24T17:08:20.787] [INFO] katalon - post https://testops.katalon.io/api/v1/agent 200.

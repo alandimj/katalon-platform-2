@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Search</name>
+   <tag></tag>
+   <elementGuidId>1f963aea-9f1e-436d-b411-4b9acb0c68b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='question-table_filter']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#question-table_filter > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1b8b6696-50d5-49b5-9322-c8ac6c8a32dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search:</value>
+      <webElementGuid>989c9cbc-c446-4be3-8503-e85f1e33db06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;question-table_filter&quot;)/label[1]</value>
+      <webElementGuid>bbbea12d-5ba1-4a27-b68f-b442ac1ba9ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='question-table_filter']/label</value>
+      <webElementGuid>a05a88d8-83ea-4f64-94a5-3ef031d486c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>6437b80f-c8b3-42e6-87d5-6638868fff81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Search:' or . = 'Search:')]</value>
+      <webElementGuid>a6db439c-2f20-434c-a594-7e4dbdff40d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
