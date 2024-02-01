@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_pswp__button pswp__button--close</name>
+   <tag></tag>
+   <elementGuidId>de913ba6-6af8-4299-b6e7-05e7afb734c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.pswp__button.pswp__button--close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fedaedee-9c01-4298-9a6c-de439c3a6cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pswp__button pswp__button--close</value>
+      <webElementGuid>bf994539-63dc-4dde-8c2f-0eb79e6eaae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close (Esc)</value>
+      <webElementGuid>fb7561ab-da23-41f9-bc44-ee79307ae3ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;product-template-default single single-product postid-54 theme-ellie woocommerce woocommerce-page woocommerce-js woocommerce-active ellie-menu-align-center ellie-logo-position-center ellie-header-menu-under    ellie-layout-no&quot;]/div[@class=&quot;pswp&quot;]/div[@class=&quot;pswp__scroll-wrap&quot;]/div[@class=&quot;pswp__ui pswp__ui--fit pswp__ui--hidden&quot;]/div[@class=&quot;pswp__top-bar&quot;]/button[@class=&quot;pswp__button pswp__button--close&quot;]</value>
+      <webElementGuid>7719fd65-3bd2-49d5-bf50-6ed2d566d37c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/button</value>
+      <webElementGuid>ed3709fb-5817-4bfe-8725-2888c1b11ef7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
